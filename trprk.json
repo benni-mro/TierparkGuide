@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Wölfe",
+    "bild": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "gehege": 3,
+    "info": "hier steht eine langer infotext",
+    "faq": [
+      [
+        "Wieso heulen Wölfe?",
+        "Weil sie Zwiebeln geschnitten haben"
+      ],
+      [
+        "Was essen Wölfe am liebsten?",
+        "Zwiebeln"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Minischweine",
+    "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
+    "gehege": 12,
+    "info": "hier steht eine schweinelanger Infotext",
+    "faq": [
+      [
+        "Wieso sind die so süß?",
+        "Weil die mit Zuckerwatte gefüttert werden"
+      ],
+      [
+        "Was essen Schweine am liebsten?",
+        "Alles"
+      ],
+      [
+        "Kann ich mir eins mitnehmen?",
+        "nein"
+      ]
+    ]
+  }
+]
