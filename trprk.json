@@ -57,6 +57,7 @@
       }
     }
   },
+  {
     "id": 3,
     "name": "Minischweine2",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
@@ -85,6 +86,7 @@
       }
     }
   },
+  {
     "id": 4,
     "name": "Minischweine3",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
@@ -113,6 +115,7 @@
       }
     }
   },
+  {
     "id": 5,
     "name": "Minischweine4",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
@@ -141,6 +144,7 @@
       }
     }
   },
+  {
     "id": 6,
     "name": "Minischweine5",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
