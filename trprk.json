@@ -7,24 +7,24 @@
     "info": "hier steht eine langer infotext",
     "faq": {
       "f1": {
-        "q1": "Wieso heulen Wölfe?",
-        "a1": "Weil sie Zwiebeln geschnitten haben"
+        "q": "Wieso heulen Wölfe?",
+        "a": "Weil sie Zwiebeln geschnitten haben"
       }
       "f2": {
-        "q2": "Was essen Wölfe am liebsten?",
-        "a2": "Zwiebeln"
+        "q": "Was essen Wölfe am liebsten?",
+        "a": "Zwiebeln"
       }
       "f3": {
-        "q3": "",
-        "a3": ""
+        "q": "",
+        "a": ""
       }
       "f4": {
-        "q4": "",
-        "a4": ""
+        "q": "",
+        "a": ""
       }
       "f5": {
-        "q5": "",
-        "a5": ""
+        "q": "",
+        "a": ""
       }
     }
   },
@@ -36,24 +36,24 @@
     "info": "hier steht eine schweinelanger Infotext",
     "faq": {
       "f1": {
-        "q1": "Wieso sind die so süß?",
-        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+        "q": "Wieso sind die so süß?",
+        "a": "Weil die mit Zuckerwatte gefüttert werden"
       }
       "f2": {
-        "q2": "Was essen Schweine am liebsten?",
-        "a2": "Alles"
+        "q": "Was essen Schweine am liebsten?",
+        "a": "Alles"
       }
       "f3": {
-        "q3": "Kann ich mir eins mitnehmen?",
-        "a3": "nein"
+        "q": "Kann ich mir eins mitnehmen?",
+        "a": "nein"
       }
       "f4": {
-        "q4": "",
-        "a4": ""
+        "q": "",
+        "a": ""
       }
       "f5": {
-        "q5": "",
-        "a5": ""
+        "q": "",
+        "a": ""
       }
     }
   },
@@ -65,24 +65,24 @@
     "info": "hier steht eine schweinelanger Infotext",
     "faq": {
       "f1": {
-        "q1": "Wieso sind die so süß?",
-        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+        "q": "Wieso sind die so süß?",
+        "a": "Weil die mit Zuckerwatte gefüttert werden"
       }
       "f2": {
-        "q2": "Was essen Schweine am liebsten?",
-        "a2": "Alles"
+        "q": "Was essen Schweine am liebsten?",
+        "a": "Alles"
       }
       "f3": {
-        "q3": "Kann ich mir eins mitnehmen?",
-        "a3": "vielleicht"
+        "q": "Kann ich mir eins mitnehmen?",
+        "a": "vielleicht"
       }
       "f4": {
-        "q4": "",
-        "a4": ""
+        "q": "",
+        "a": ""
       }
       "f5": {
-        "q5": "",
-        "a5": ""
+        "q": "",
+        "a": ""
       }
     }
   },
@@ -94,24 +94,24 @@
     "info": "hier steht eine schweinelanger Infotext",
     "faq": {
       "f1": {
-        "q1": "Wieso sind die so süß?",
-        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+        "q": "Wieso sind die so süß?",
+        "a": "Weil die mit Zuckerwatte gefüttert werden"
       }
       "f2": {
-        "q2": "Was essen Schweine am liebsten?",
-        "a2": "Alles"
+        "q": "Was essen Schweine am liebsten?",
+        "a": "Alles"
       }
       "f3": {
-        "q3": "Kann ich mir eins mitnehmen?",
-        "a3": "nein"
+        "q": "Kann ich mir eins mitnehmen?",
+        "a": "nein"
       }
       "f4": {
-        "q4": "bla",
-        "a4": "nö"
+        "q": "bla",
+        "a": "nö"
       }
       "f5": {
-        "q5": "bla",
-        "a5": "ja"
+        "q": "bla",
+        "a": "ja"
       }
     }
   },
@@ -123,24 +123,24 @@
     "info": "hier steht eine schweinelanger Infotext",
     "faq": {
       "f1": {
-        "q1": "Wieso sind die so süß?",
-        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+        "q": "Wieso sind die so süß?",
+        "a": "Weil die mit Zuckerwatte gefüttert werden"
       }
       "f2": {
-        "q2": "Was essen Schweine am liebsten?",
-        "a2": "Alles"
+        "q": "Was essen Schweine am liebsten?",
+        "a": "Alles"
       }
       "f3": {
-        "q3": "Kann ich mir eins mitnehmen?",
-        "a3": "nein"
+        "q": "Kann ich mir eins mitnehmen?",
+        "a": "nein"
       }
       "f4": {
-        "q4": "q4",
-        "a4": ""
+        "q": "q4",
+        "a": ""
       }
       "f5": {
-        "q5": "",
-        "a5": ""
+        "q": "",
+        "a": ""
       }
     }
   },
@@ -152,24 +152,24 @@
     "info": "hier steht eine schweinelanger Infotext",
     "faq": {
       "f1": {
-        "q1": "Wieso sind die so süß?",
-        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+        "q": "Wieso sind die so süß?",
+        "a": "Weil die mit Zuckerwatte gefüttert werden"
       }
       "f2": {
-        "q2": "Was essen Schweine am liebsten?",
-        "a2": "Alles"
+        "q": "Was essen Schweine am liebsten?",
+        "a": "Alles"
       }
       "f3": {
-        "q3": "Kann ich mir eins mitnehmen?",
-        "a3": "nein"
+        "q": "Kann ich mir eins mitnehmen?",
+        "a": "nein"
       }
       "f4": {
-        "q4": "test",
-        "a4": "test"
+        "q": "test",
+        "a": "test"
       }
       "f5": {
-        "q5": "",
-        "a5": ""
+        "q": "",
+        "a": ""
       }
     }
   }
