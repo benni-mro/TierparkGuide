@@ -5,16 +5,28 @@
     "bild": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "gehege": 3,
     "info": "hier steht eine langer infotext",
-    "faq": [
-      [
-        "Wieso heulen Wölfe?",
-        "Weil sie Zwiebeln geschnitten haben"
-      ],
-      [
-        "Was essen Wölfe am liebsten?",
-        "Zwiebeln"
-      ]
-    ]
+    "faq": {
+      "f1": {
+        "q1": "Wieso heulen Wölfe?",
+        "a1": "Weil sie Zwiebeln geschnitten haben"
+      }
+      "f2": {
+        "q2": "Was essen Wölfe am liebsten?",
+        "a2": "Zwiebeln"
+      }
+      "f3": {
+        "q3": "",
+        "a3": ""
+      }
+      "f4": {
+        "q4": "",
+        "a4": ""
+      }
+      "f5": {
+        "q5": "",
+        "a5": ""
+      }
+    }
   },
   {
     "id": 2,
@@ -22,187 +34,139 @@
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
     "gehege": 12,
     "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
+    "faq": {
+      "f1": {
+        "q1": "Wieso sind die so süß?",
+        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+      }
+      "f2": {
+        "q2": "Was essen Schweine am liebsten?",
+        "a2": "Alles"
+      }
+      "f3": {
+        "q3": "Kann ich mir eins mitnehmen?",
+        "a3": "nein"
+      }
+      "f4": {
+        "q4": "",
+        "a4": ""
+      }
+      "f5": {
+        "q5": "",
+        "a5": ""
+      }
+    }
   },
-  {
     "id": 3,
     "name": "Minischweine2",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
     "gehege": 12,
     "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
+    "faq": {
+      "f1": {
+        "q1": "Wieso sind die so süß?",
+        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+      }
+      "f2": {
+        "q2": "Was essen Schweine am liebsten?",
+        "a2": "Alles"
+      }
+      "f3": {
+        "q3": "Kann ich mir eins mitnehmen?",
+        "a3": "vielleicht"
+      }
+      "f4": {
+        "q4": "",
+        "a4": ""
+      }
+      "f5": {
+        "q5": "",
+        "a5": ""
+      }
+    }
   },
-  {
     "id": 4,
     "name": "Minischweine3",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
     "gehege": 12,
     "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
+    "faq": {
+      "f1": {
+        "q1": "Wieso sind die so süß?",
+        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+      }
+      "f2": {
+        "q2": "Was essen Schweine am liebsten?",
+        "a2": "Alles"
+      }
+      "f3": {
+        "q3": "Kann ich mir eins mitnehmen?",
+        "a3": "nein"
+      }
+      "f4": {
+        "q4": "bla",
+        "a4": "nö"
+      }
+      "f5": {
+        "q5": "bla",
+        "a5": "ja"
+      }
+    }
   },
-  {
     "id": 5,
     "name": "Minischweine4",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
     "gehege": 12,
     "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
+    "faq": {
+      "f1": {
+        "q1": "Wieso sind die so süß?",
+        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+      }
+      "f2": {
+        "q2": "Was essen Schweine am liebsten?",
+        "a2": "Alles"
+      }
+      "f3": {
+        "q3": "Kann ich mir eins mitnehmen?",
+        "a3": "nein"
+      }
+      "f4": {
+        "q4": "q4",
+        "a4": ""
+      }
+      "f5": {
+        "q5": "",
+        "a5": ""
+      }
+    }
   },
-  {
     "id": 6,
     "name": "Minischweine5",
     "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
     "gehege": 12,
     "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Minischweine6",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
-    "gehege": 12,
-    "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Minischweine7",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
-    "gehege": 12,
-    "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Minischweine8",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
-    "gehege": 12,
-    "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Minischweine9",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
-    "gehege": 12,
-    "info": "hier steht eine schweinelanger Infotext",
-    "faq": [
-      [
-        "Wieso sind die so süß?",
-        "Weil die mit Zuckerwatte gefüttert werden"
-      ],
-      [
-        "Was essen Schweine am liebsten?",
-        "Alles"
-      ],
-      [
-        "Kann ich mir eins mitnehmen?",
-        "nein"
-      ]
-    ]
+    "faq": {
+      "f1": {
+        "q1": "Wieso sind die so süß?",
+        "a1": "Weil die mit Zuckerwatte gefüttert werden"
+      }
+      "f2": {
+        "q2": "Was essen Schweine am liebsten?",
+        "a2": "Alles"
+      }
+      "f3": {
+        "q3": "Kann ich mir eins mitnehmen?",
+        "a3": "nein"
+      }
+      "f4": {
+        "q4": "test",
+        "a4": "test"
+      }
+      "f5": {
+        "q5": "",
+        "a5": ""
+      }
+    }
   }
 ]
