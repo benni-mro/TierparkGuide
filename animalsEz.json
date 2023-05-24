@@ -2,22 +2,22 @@
   {
     "id": 1,
     "name": "Wölfe",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
-    "gehege": 3,
+    "pic": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "enclosure": 3,
     "info": "hier steht eine langer infotext"
   },
   {
     "id": 2,
     "name": "Wölfe2",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
-    "gehege": 4,
+    "pic": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "enclosure": 4,
     "info": "hier steht eine langer infotext"
   },
   {
     "id": 3,
     "name": "Wölfe3",
-    "bild": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
-    "gehege": 5,
+    "pic": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "enclosure": 5,
     "info": "hier steht eine langer infotext"
   }
 ]
