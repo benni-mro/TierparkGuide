@@ -4,20 +4,20 @@
     "name": "Wölfe",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 3,
-    "info": "hier steht eine langer infotext"
+    "infoText": "hier steht eine langer infotext"
   },
   {
     "id": 2,
     "name": "Wölfe2",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 4,
-    "info": "hier steht eine langer infotext"
+    "infoText": "hier steht eine langer infotext"
   },
   {
     "id": 3,
     "name": "Wölfe3",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 5,
-    "info": "hier steht eine langer infotext"
+    "infoText": "hier steht eine langer infotext"
   }
 ]
