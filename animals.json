@@ -1,37 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Affe",
+    "name": "Tiger",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 3,
     "infoText": "hier steht eine langer infotext"
   },
   {
     "id": 2,
-    "name": "Bär",
+    "name": "Emu",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 2,
     "infoText": "hier steht eine langer infotext"
   },
   {
     "id": 3,
-    "name": "Tiger",
+    "name": "Känguru",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
-    "enclosure": 5,
+    "enclosure": 2,
+    "infoText": "hier steht eine langer infotext"
+  },
+  {
+    "id": 4,
+    "name": "Alpaka",
+    "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "enclosure": 4,
     "infoText": "hier steht eine langer infotext"
   },
   {
     "id": 5,
-    "name": "Kamel",
+    "name": "Nandu",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 4,
     "infoText": "hier steht eine langer infotext"
   },
   {
     "id": 6,
-    "name": "Nandu",
+    "name": "Mara",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
-    "enclosure": 6,
+    "enclosure": 4,
     "infoText": "hier steht eine langer infotext"
   }
 ]
