@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "Wie viele Tiger kannst du im Tierpark finden?",
+    "answerRight": "2",
+    "answerWrong1": "5",
+    "answerWrong2": "keine"
+  },
+  {
+    "id": 2,
+    "question": "Was essen Schweine?",
+    "answerRight": "alles",
+    "answerWrong1": "Bananen",
+    "answerWrong2": "Wölfe"
+  },
+  {
+    "id": 3,
+    "question": "Wie alt werden Pferde?",
+    "answerRight": "keine Ahnung",
+    "answerWrong1": "10",
+    "answerWrong2": "20"
+  },
+  {
+    "id": 4,
+    "question": "Warum gibt es Ratten?",
+    "answerRight": "zum nerven",
+    "answerWrong1": "zum essen",
+    "answerWrong2": "kein Plan"
+  }
+]
