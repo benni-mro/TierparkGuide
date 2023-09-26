@@ -22,9 +22,9 @@
   },
   {
     "id": 4,
-    "question": "Warum gibt es Ratten?",
-    "answerRight": "zum nerven",
-    "answerWrong1": "zum essen",
-    "answerWrong2": "kein Plan"
+    "question": "Wie viele Hühner rennen frei durch den Park?",
+    "answerRight": "ca. 30",
+    "answerWrong1": "ca. 10",
+    "answerWrong2": "ca. 80"
   }
 ]
