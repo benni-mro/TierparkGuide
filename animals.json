@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Tiger",
-    "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "name": "Alpaka",
+    "picture": "https://tierpark-koethen.de/wp-content/uploads/Alpaka-e1606242408363.jpg",
     "enclosure": 3,
-    "infoText": "hier steht eine langer infotext"
+    "infoText": "Alpaka Infotext"
   },
   {
     "id": 2,
-    "name": "Emu",
-    "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "name": "Feuerwiesel",
+    "picture": "https://tierpark-koethen.de/wp-content/uploads/Feuerwiesel-e1673472131406.jpg",
     "enclosure": 2,
-    "infoText": "hier steht eine langer infotext"
+    "infoText": "Feuerwiesel Infotext"
   },
   {
     "id": 3,
-    "name": "Känguru",
-    "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "name": "Minischwein",
+    "picture": "https://tierpark-koethen.de/wp-content/uploads/microschweine_web.jpg",
     "enclosure": 2,
-    "infoText": "hier steht eine langer infotext"
+    "infoText": "Minischwein Infotext"
   },
   {
     "id": 4,
-    "name": "Alpaka",
+    "name": "Polarwölfe",
     "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
     "enclosure": 4,
-    "infoText": "hier steht eine langer infotext"
+    "infoText": "Polarwölf Infotext"
   },
   {
     "id": 5,
-    "name": "Nandu",
-    "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "name": "Tiger",
+    "picture": "https://tierpark-koethen.de/wp-content/uploads/tiger-.jpeg",
     "enclosure": 4,
-    "infoText": "hier steht eine langer infotext"
+    "infoText": "Tiger Infotext"
   },
   {
     "id": 6,
-    "name": "Mara",
-    "picture": "https://tierpark-koethen.de/wp-content/uploads/Polarw%C3%B6lfe-e1673473209943.jpg",
+    "name": "Ohrfasan",
+    "picture": "https://tierpark-koethen.de/wp-content/uploads/jagdfasan_web.jpg",
     "enclosure": 4,
-    "infoText": "hier steht eine langer infotext"
+    "infoText": "Ohrfasan Infotext"
   }
 ]
